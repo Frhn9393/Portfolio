@@ -19,7 +19,7 @@ export const projects: Project[] = [
     image: "/imgs/project1.png",
     tags: ["ReactJS", "TailwindCSS", "ReactHooksForm"],
     links: {
-      github: "https://github.com/KevinMarpaung/PantauLagit",
+      github: "https://github.com/Frhn9393/CekKhodam/",
       live: "https://pantau-lagit.vercel.app/",
     },
   },

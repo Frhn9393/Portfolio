@@ -55,7 +55,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-14">
           <div className="flex items-center">
             <a href="/">
-              <span className="text-xl font-bold text-primary">Kzv!n.</span>
+              <span className="text-xl font-bold text-primary">Han</span>
             </a>
           </div>
 

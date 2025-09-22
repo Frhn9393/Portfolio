@@ -73,10 +73,11 @@ const AboutSection = () => {
                 <FileText className="w-5 h-5 text-primary" /> Bio
               </h3>
               <p className="text-muted-foreground">
-                "Information Technology student who is also a Frontend Developer
-                with high enthusiasm in creating modern digital solutions.
-                Combining technical logic and design creativity to build
-                attractive and user-friendly interfaces."
+                "Informatics Engineering graduate who is also a Frontend
+                Developer with high enthusiasm in creating modern digital
+                solutions. Combining technical logic and design creativity to
+                build attractive and user-friendly interfaces, and also combined
+                with AI"
               </p>
             </motion.div>
 
@@ -100,7 +101,7 @@ const AboutSection = () => {
                         Universitas Samudra
                       </p>
                       <p className="text-sm text-muted-foreground">
-                        2021 - Present
+                        2021 - 2025
                       </p>
                     </div>
                   </CardContent>
@@ -109,9 +110,9 @@ const AboutSection = () => {
                       Senior High School (IPA)
                     </h3>
                     <div className="space-y-2">
-                      <p className="font-medium">SMA Negeri 1 Silaen</p>
+                      <p className="font-medium">SMA Negeri 3 Langsa</p>
                       <p className="text-sm text-muted-foreground">
-                        2018 - 2020
+                        2016 - 2019
                       </p>
                     </div>
                   </CardContent>
@@ -132,12 +133,16 @@ const AboutSection = () => {
                     </h3>
                     <div className="space-y-4">
                       <div>
-                        <p className="font-medium">Frot End Javascript</p>
-                        <p className="text-sm text-muted-foreground">
-                          Binar Academy
+                        <p className="font-medium">Back-End Javascript</p>
+                        <p className="font-medium">
+                          "Building ans interactive infographic system website
+                          for development in Langsa City"
                         </p>
                         <p className="text-sm text-muted-foreground">
-                          2022-2023
+                          Bappeda Kota Langsa
+                        </p>
+                        <p className="text-sm text-muted-foreground">
+                          2024-2024
                         </p>
                       </div>
                     </div>
@@ -161,7 +166,7 @@ const AboutSection = () => {
             >
               <Avatar className="w-40 h-40 border-4  border-primary/20">
                 <AvatarImage
-                  src="/imgs/fotoprofil.jpeg"
+                  src="/imgs/fotoprofil.png"
                   alt="kevin marpaung"
                   loading="lazy"
                 />
@@ -177,9 +182,7 @@ const AboutSection = () => {
               className="text-center lg:text-left"
             >
               <h3 className="text-2xl font-bold">Muhammad Farhan</h3>
-              <p className="text-muted-foreground">
-                Informatics Engineering 
-              </p>
+              <p className="text-muted-foreground">Informatics Engineering</p>
             </motion.div>
 
             <motion.div
