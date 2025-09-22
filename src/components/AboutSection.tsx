@@ -176,7 +176,7 @@ const AboutSection = () => {
               variants={itemVariants}
               className="text-center lg:text-left"
             >
-              <h3 className="text-2xl font-bold">Kevin A. Marpaung</h3>
+              <h3 className="text-2xl font-bold">Muhammad Farhan</h3>
               <p className="text-muted-foreground">
                 Informatics Engineering Student
               </p>
