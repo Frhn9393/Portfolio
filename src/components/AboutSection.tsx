@@ -167,7 +167,7 @@ const AboutSection = () => {
               <Avatar className="w-40 h-40 border-4  border-primary/20">
                 <AvatarImage
                   src="/imgs/fotoprofil.png"
-                  alt="kevin marpaung"
+                  alt="Muhammad Farhan"
                   loading="lazy"
                 />
                 <AvatarFallback>AZ</AvatarFallback>
@@ -196,7 +196,10 @@ const AboutSection = () => {
                 Node
               </Badge>
               <Badge variant="outline" className="bg-primary/10">
-                UI/UX
+                Laravel
+              </Badge>
+              <Badge variant="outline" className="bg-primary/10">
+                PHP
               </Badge>
               <Badge variant="outline" className="bg-primary/10">
                 TailwindCss
